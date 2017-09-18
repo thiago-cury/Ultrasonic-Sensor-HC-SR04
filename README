@@ -1,8 +1,3 @@
-# Ultrasonic-Sensor-HC-SR04
-Biblioteca para utilizar com o Sensor ultrasonico HC-SR04
-
-----------------------
-
 This library was created to work with the HC-SR04 Ultrasonic sensor.
 
 It features timing, metric conversion (centimeter and inch) and standard
@@ -20,6 +15,3 @@ definition in the header file.
 
 
 mailto://carl.nobile@gmail.com
-
-
-
